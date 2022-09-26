@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "animate": "^1.0.0",
+    "axios": "^0.27.2",
+    "datetime-js": "^4.0.0",
+    "moment": "^2.29.4",
+    "node-datetime": "^2.1.2",
+    "server": "^1.0.37",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.1"
+  }
+}
